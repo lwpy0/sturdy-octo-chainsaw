@@ -1,6 +1,6 @@
 //settings
 
-
+//launchopts: -novid  -tickrate 128   -nod3d9ex -language lowpzgrn -nothreadedsockets
 
 log_color General "008000FF"
 log_color Eerror "008000FF"
